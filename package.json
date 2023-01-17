@@ -5,6 +5,9 @@
     "description": "Provides an implementation of the AStar search algorithm and utilities for building a graph of AStar nodes.",
     "unity": "2019.1",
     "unityRelease": "0b5",
+    "dependencies": {
+        "com.duccsoft.collections": "1.0.0"
+     },
    "keywords": [
       "astar",
       "navigation",

@@ -1,3 +1,16 @@
 {
-	"name": "ducc.AStar"
+    "name": "ducc.AStar",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2894930936b9bb54e9316a3bce279a06"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
